@@ -23,6 +23,7 @@ public class Test4 {
 		if (str.contains(Character.toString(c)))
 		{
 			System.out.println("Hello");
+			System.out.println("Hello0907");
 		}
 		if (str.charAt(2)==c)
 		{
